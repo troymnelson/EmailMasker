@@ -38,3 +38,7 @@ label, h1, button {
   color: var(--tan);
 }
 
+p {
+  color: var(--tan);
+  text-align: center;
+}
